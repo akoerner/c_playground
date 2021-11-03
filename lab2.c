@@ -4,7 +4,7 @@ int main(){
 
     //Lab#2
 
-    printf("Hello, lab#23!\n");
+    printf("Hello, lab#23!\n")
     printf("THIS SHOULD NOT PRINT\n");
     
     int i = 1;
