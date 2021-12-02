@@ -1,6 +1,6 @@
  ____________________________________
 / C programming is fun!:             \
-\ Predicates & printf                /
+\ Operators & Control Structures     /
  ------------------------------------
    \
     \
