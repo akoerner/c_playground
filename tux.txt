@@ -1,6 +1,6 @@
  ____________________________________
 / C programming is fun!:             \
-\ Operators & Control Structures     /
+\ Control Structures (Loops) & Arrays/
  ------------------------------------
    \
     \
